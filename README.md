@@ -9,3 +9,7 @@
 ## 这里是任务二回收格式的说明
 
 ![CCAC2025 细粒度比拟句情绪分析任务1回收格式.png](https://github.com/dashuai180/-/blob/main/Task2-Recycle.png)
+
+## 这里是任务三回收格式的说明
+
+![CCAC2025 细粒度比拟句情绪分析任务1回收格式.png](https://github.com/dashuai180/-/blob/main/Task3-Recycle.png)
